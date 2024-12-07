@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsukim9900)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{minsukim9900}"/>
 </a>
