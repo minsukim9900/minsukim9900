@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
 
 ### 📚 Certificate
 - 정보처리기사 2024.6
 
-<hr>
 
 ### 🌱 Tech Stack
 
@@ -31,13 +29,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<hr>
 
 ### 🌱 Algorithm tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minst01)](https://solved.ac/minst01/)
 
-<hr>
 
 <br>
 
