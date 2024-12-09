@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ### 🌱 Tech Stack
-
+<a href="https://github.com/minsukim9900"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsukim9900&layout=compact&theme=nord&hide_border=true" /></a> 
 
 <br>
 
