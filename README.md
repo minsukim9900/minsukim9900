@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ### 🌱 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsukim9900)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
