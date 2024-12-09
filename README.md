@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Rafael%20Mindesu&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Rafael%20Mindesu&fontSize=50)
 ## ✨About Me✨
 Moving forward step by step
 <!--
