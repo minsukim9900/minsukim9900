@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 🌱 Algorithm tier
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minst01)](https://solved.ac/minst01/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minst01)](https://solved.ac/Mindoli/)
 
 
 <br>
