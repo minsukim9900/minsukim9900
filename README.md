@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 정보처리기사 2024.6
 
 ### 🏴 History
-- LG U+ 유레카 2기 (25.1.20 ~ing)
+- LG U+ 유레카 2기 (25. 1. 20. ~ ing)
 
 ### 🌱 Tech Stack
 <a href="https://github.com/minsukim9900"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsukim9900&layout=compact&theme=nord&hide_border=true" /></a> 
