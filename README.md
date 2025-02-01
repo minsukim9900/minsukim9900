@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-
+![](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=spring&logoColor=white)
 ### 🌱 Algorithm tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Mindoli)](https://solved.ac/Mindoli/)
