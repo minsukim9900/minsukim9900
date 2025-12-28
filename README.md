@@ -23,14 +23,6 @@ Here are some ideas to get you started:
 ### 🏴 History
 - SSAFY 14기
 
-### 🌱 Tech Stack
-<a href="https://github.com/minsukim9900"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsukim9900&layout=compact&theme=nord&hide_border=true" /></a> 
-
-<br>
-
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=spring&logoColor=white)
 ### 🌱 Algorithm tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Mindoli)](https://solved.ac/Mindoli/)
