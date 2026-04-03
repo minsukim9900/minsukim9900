@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=Rafael%20Mindesu&fontSize=50)
 ## ✨About Me✨
 Moving forward step by step
 <!--
@@ -18,7 +17,9 @@ Here are some ideas to get you started:
 
 
 ### 📚 Certificate
-- 정보처리기사 2024.6
+- 삼성전자 DX부문 S/W역량테스트 B형 2026년 3월 18일
+- SQLD 2025.12.12
+- 정보처리기사 2024.06.18
 
 ### 🏴 History
 - SSAFY 14기
@@ -26,10 +27,3 @@ Here are some ideas to get you started:
 ### 🌱 Algorithm tier
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Mindoli)](https://solved.ac/Mindoli/)
-
-
-<br>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{minsukim9900}"/>
-</a>
