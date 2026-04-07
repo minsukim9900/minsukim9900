@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 📚 Certificate
-- 삼성전자 DX부문 S/W역량테스트 B형 2026년 3월 18일
+- 삼성전자 DX부문 S/W역량테스트 B형 2026.3.18
 - SQLD 2025.12.12
 - 정보처리기사 2024.06.18
 
